@@ -59,15 +59,6 @@ Adicionalmente, há uma falta de canais de notícias isentos e objetivos que per
 |RF-010| O site deve permitir que usuários possam comentar nas quadras   |
 |RF-011| O site deve exibir os comentários registrados juntamente com a quadra exibida   |
 
-## src
-Local reservado para o armazenameto do código fonte do projeto. Esta pasta carrega uma estrutura básica para projetos Web simples que utilizem HTML/CSS/JavaScript. A estrutura interna é detalhada a conforme se segue:
-- A pasta `assets` é utilizada para armazenar imagens, fontes e outros recursos utiilzados no projeto. 
-- A pasta `scripts` armazena os arquivos JavaScripts do projeto
-- A pasta `styles` é utilizada para os arquivos CSS
-- A pasta `vendor` é reservada para incluir bibliotecas e frameworks utilizados no projeto como Bootstrap, jQuery, etc.
-
-# Orientações sobre o projeto
-
 ## Requisitos não Funcionais
 |ID     | Descrição do Requisito  |
 |-------|-------------------------|
