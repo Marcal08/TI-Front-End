@@ -1,3 +1,19 @@
+## Personas
+
+Leticia, estudante, com seus 19 anos é uma pessoa calma, tranquila e 
+adora sair com seus amigos para fazer alguma coisa juntos, na maioria 
+das vezes jogos de forma mais casual, apenas para distrair e alegrar 
+um pouco seu dia.
+
+Gustavo, empresário, com seus 31 anos e sua alta competitividade, ele 
+leva as coisas muito a sério, principalmente jogos como o futebol, porém,
+sempre mantendo o respeito com os que estãoao seu redor.
+
+José, professor, muito curioso e apaixonado pelo seu clube do coração, com oscilações entre 
+competitividade e casualidade, ele é um jogador que busca as vezes um jogo mais 
+sério e outras um mais descontraído, sempre com seu jeito calmo.
+
+
 ## Histórias de Usuários
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
