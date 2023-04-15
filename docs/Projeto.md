@@ -74,6 +74,22 @@ Adicionalmente, há uma falta de canais de notícias isentos e objetivos que per
 |RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend |
 |RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho |
 
+# Projeto de Interface
+
+<span style="color:red">Pré-requisitos: <a href="2-Especificação.md"> Documentação de Especificação</a></span>
+
+> Apresente as principais a interface da plataforma. Discuta como ela
+> foi elaborada de forma a atender os requisitos funcionais, não
+> funcionais e histórias de usuário abordados nas [Especificações do
+> Projeto](2-Especificação.md).
+## User Flow
+
+![Exemplo de UserFlow](images/userflow.jpg)
+
+## Wireframes
+
+![Exemplo de Wireframe](images/wireframe-example.png)
+
 ## Divisão de Papéis
 Definida pela utilização do Trello com a descrição e divisão das tarefas feitas no site
 
