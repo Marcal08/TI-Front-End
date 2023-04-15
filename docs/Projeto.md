@@ -1,7 +1,9 @@
 # Informações do Projeto
 `Pelada de futebol`  
-## docs
-Esta pasta é reservada para a documentação do projeto, sendo que o arquivo `Projeto.md` deve ser utilizado como o documento que concentra toda a informação sobre o projeto em questão. O template fornecido detalha todos os itens que o grupo deverá entregar.
+Trabalho Interdisciplinar - Aplicacões Web
+`Front-end`
+
+`1 Periodo`
 
 # Introdução
 Nesta pasta, há uma subpasta `images` onde o grupo deve colocar os arquivos utilizados no documento principal.
