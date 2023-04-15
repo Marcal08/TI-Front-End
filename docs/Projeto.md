@@ -87,8 +87,8 @@ Local reservado para o armazenameto do código fonte do projeto. Esta pasta carr
 Definida pela utilização do Trello com a descrição e divisão das tarefas feitas no site
 
 ## Ferramentas
-| Ambiente|Plataforma||Link de acesso|
-|-----------|------------------------------------------||---------------------------------------------------------------|
+| Ambiente |Plataforma || Link de acesso |
+|----------|-----------||----------------|
 | Repositório de código fonte | Github | https://github.com/rommelcarneiro/tiaw-template |
 | Documentos do projeto | Google Drive | https://github.com/rommelcarneiro/tiaw-template |
 | Projeto de Interface e  Wireframes | ninjamock | https://ninjamock.com/s/JD5T1Kx |
