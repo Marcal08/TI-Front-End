@@ -36,7 +36,11 @@ Adicionalmente, há uma falta de canais de notícias isentos e objetivos que per
 
 ## Histórias de Usuários
 
-|EU COMO... |            QUERO/PRECISO ...             |                              PARA ...                          |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Leticia   |visualizar as quadras perto de minha casa |para encontrar pessoas com sminha faixa etária perto da sua casa|
+|Gustavo   |visualizar as quadras quando está interess|gastar menos tempo indo para a quadra independente do lugar     |
+| José      |utiliza o aplicativo para conseguir carona para chegar na quadra|para não gastar dinheiro desnecessário podendo ter pessoas que vão para o mesmo destino morando perto  |
 |-----------|------------------------------------------||---------------------------------------------------------------|
 | Leticia   |visualizar as quadras perto de minha casa |para encontrar pessoas com sminha faixa etária perto da sua casa|
 | Gustavo   |visualizar as quadras quando está interess|gastar menos tempo indo para a quadra independente do lugar     |
