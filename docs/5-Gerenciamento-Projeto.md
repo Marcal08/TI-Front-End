@@ -1,5 +1,15 @@
+# Gerenciamento de Projeto
+
+a metodologia utilizada pelo grupo foi de tentar se sentir na pele dos possivéis usuarios da aplicação, para assim compreender e entender melhor como funcionaria um aplicativo para melhor e facilitar as pessoas de encontrar um futebol para jogar
+
+
+
 ## Divisão de Papéis
-Definida pela utilização do Trello com a descrição e divisão das tarefas feitas no site
+A divisão de tarefas foi feita de acordo com uma conversa, em que dividimos o grupo em duas equipes, cada responsavél por uma parte do projeto, apesar de que todos tiveram participação em todas etapas do processo
+
+## Processo
+
+
 
 ## Ferramentas
 |Ambiente | Plataforma |Link de acesso  |
