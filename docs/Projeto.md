@@ -1,6 +1,7 @@
 # Informações do Projeto
 `Pelada de futebol`  
 Trabalho Interdisciplinar - Aplicacões Web
+
 `Front-end`
 
 `1 Periodo`
@@ -84,7 +85,7 @@ Adicionalmente, há uma falta de canais de notícias isentos e objetivos que per
 > Projeto](2-Especificação.md).
 ## User Flow
 
-![Exemplo de UserFlow](images/userflow.jpg)
+![Exemplo de UserFlow](images/userflow.PNG)
 
 ## Wireframes
 
