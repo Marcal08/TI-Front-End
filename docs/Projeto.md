@@ -76,7 +76,7 @@ Adicionalmente, há uma falta de canais de notícias isentos e objetivos que per
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação.md"> Documentação de Especificação</a></span>
+
 
 > Apresente as principais a interface da plataforma. Discuta como ela
 > foi elaborada de forma a atender os requisitos funcionais, não
@@ -88,7 +88,7 @@ Adicionalmente, há uma falta de canais de notícias isentos e objetivos que per
 
 ## Wireframes
 
-![Exemplo de Wireframe](images/Wireframe.PNG)
+![Wireframe](images/Wireframe.PNG)
 
 ## Divisão de Papéis
 Definida pela utilização do Trello com a descrição e divisão das tarefas feitas no site
