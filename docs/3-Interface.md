@@ -8,5 +8,5 @@ e até mesmo a avaliação pelos próprios usuários, a partir de filtros na hor
 
 ## Wireframes
 
-![Wireframe](images/wireframe.PNG)
+![Wireframe](images/Wireframe.PNG)
 
