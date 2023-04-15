@@ -79,7 +79,7 @@ Local reservado para o armazenameto do código fonte do projeto. Esta pasta carr
 ## Restrições
 |ID| Restrição |
 |--|---------------|
-|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/07/2020 |
+|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 02/07/2023 |
 |RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend |
 |RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho |
 
@@ -87,10 +87,8 @@ Local reservado para o armazenameto do código fonte do projeto. Esta pasta carr
 Definida pela utilização do Trello com a descrição e divisão das tarefas feitas no site
 
 ## Ferramentas
-ão para o mesmo destino morando perto
 |Ambiente | Plataforma |Link de acesso  |
 |--------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte | Github | https://github.com/rommelcarneiro/tiaw-template |
 | Documentos do projeto | Google Drive | https://github.com/rommelcarneiro/tiaw-template |
 | Projeto de Interface e  Wireframes | ninjamock | https://ninjamock.com/s/JD5T1Kx |
 | Repositório de código fonte | Github | https://github.com/rommelcarneiro/tiaw-template |
