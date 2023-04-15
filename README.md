@@ -16,15 +16,3 @@ imagens utilizadas para a elaboração do documento [`Projeto.md`](docs/Projeto.
 A presentação do projeto, deve ser entregue à parte em formato `pdf` e
 podem devem ser colocada no diretório `docs`.
 
-## src
-
-Este diretório armazena o código fonte do projeto e adota uma hierarquia
-básica de projetos Web simples, que utilizam as tecnologias HTML, CSS e
-JavaScript:
-
-- O diretório `assets` é utilizado para armazenar imagens, fontes e
-  outros recursos utilizados no projeto. 
-- O diretório `scripts` armazena os arquivos JavaScripts do projeto
-- O diretório `styles` é utilizado para os arquivos CSS
-- o diretório `vendor` é reservado para incluir bibliotecas e frameworks
-  utilizados no projeto como Bootstrap, jQuery, etc.
