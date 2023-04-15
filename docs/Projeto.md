@@ -45,7 +45,6 @@ Adicionalmente, há uma falta de canais de notícias isentos e objetivos que per
 
 ## Requisitos Funcionais
 |ID    | Descrição do Requisito  |
-|------|-----------------------------------------|
 |RF-001| O site deve apresentar na página inicial as principais quadras do momento  |
 |RF-002| O site deve apresentar, para cada quadra, uma imagem correspondente  |
 |RF-003| O site deve permitir ao usuário visualizar as avaliações e preços das quadras |
@@ -86,8 +85,8 @@ Local reservado para o armazenameto do código fonte do projeto. Esta pasta carr
 Definida pela utilização do Trello com a descrição e divisão das tarefas feitas no site
 
 ## Ferramentas
-Repositório de código fonte | Github | https://github.com/rommelcarneiro/tiaw-template |
-Documentos do projeto | Google Drive | https://github.com/rommelcarneiro/tiaw-template |
-Projeto de Interface e  Wireframes | ninjamock | https://ninjamock.com/s/JD5T1Kx |
-Gerenciamento do Projeto | Trello | https://trello.com/b/3DNdAnrb/ti-front-end-pelada |
+| Repositório de código fonte | Github | https://github.com/rommelcarneiro/tiaw-template |
+| Documentos do projeto | Google Drive | https://github.com/rommelcarneiro/tiaw-template |
+| Projeto de Interface e  Wireframes | ninjamock | https://ninjamock.com/s/JD5T1Kx |
+| Gerenciamento do Projeto | Trello | https://trello.com/b/3DNdAnrb/ti-front-end-pelada |
 
