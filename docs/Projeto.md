@@ -88,7 +88,7 @@ Adicionalmente, há uma falta de canais de notícias isentos e objetivos que per
 
 ## Wireframes
 
-![Exemplo de Wireframe](doc/images/Wireframe.png)
+![Exemplo de Wireframe](TI-Front-End/docs/images/Wireframe.PNG)
 
 ## Divisão de Papéis
 Definida pela utilização do Trello com a descrição e divisão das tarefas feitas no site
