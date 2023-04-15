@@ -8,7 +8,7 @@ a metodologia utilizada pelo grupo foi de tentar se sentir na pele dos possivéi
 A divisão de tarefas foi feita de acordo com uma conversa, em que dividimos o grupo em duas equipes, cada responsavél por uma parte do projeto, apesar de que todos tiveram participação em todas etapas do processo
 
 ## Processo
-
+ O processo foi todo acompanhando pelo trello, com a divisão das tarefas escritlas lá, bem como o que faltava fazer e para quando seria
 
 
 ## Ferramentas
