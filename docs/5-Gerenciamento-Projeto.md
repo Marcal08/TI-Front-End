@@ -14,7 +14,7 @@ A divisão de tarefas foi feita de acordo com uma conversa, em que dividimos o g
 ## Ferramentas
 |Ambiente | Plataforma |Link de acesso  |
 |--------------------|------------------------------------|----------------------------------------|
-| Documentos do projeto | Google Drive | https://github.com/rommelcarneiro/tiaw-template |
+| Documentos do projeto | Google Drive | https://docs.google.com/document/d/1Z-HT5bBP1TvSfSO9yNsrTokDq1pYjIqV5RkWx6L0a2w/edit?usp=sharing |
 | Projeto de Interface e  Wireframes | ninjamock | https://ninjamock.com/s/JD5T1Kx |
 | Repositório de código fonte | Github | https://github.com/rommelcarneiro/tiaw-template |
 | Gerenciamento do Projeto | Trello | https://trello.com/b/3DNdAnrb/ti-front-end-pelada |
