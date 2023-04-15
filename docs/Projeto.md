@@ -41,12 +41,6 @@ Adicionalmente, há uma falta de canais de notícias isentos e objetivos que per
 |Leticia   |visualizar as quadras perto de minha casa |para encontrar pessoas com sminha faixa etária perto da sua casa|
 |Gustavo   |visualizar as quadras quando está interess|gastar menos tempo indo para a quadra independente do lugar     |
 | José      |utiliza o aplicativo para conseguir carona para chegar na quadra|para não gastar dinheiro desnecessário podendo ter pessoas que vão para o mesmo destino morando perto  |
-|-----------|------------------------------------------||---------------------------------------------------------------|
-| Leticia   |visualizar as quadras perto de minha casa |para encontrar pessoas com sminha faixa etária perto da sua casa|
-| Gustavo   |visualizar as quadras quando está interess|gastar menos tempo indo para a quadra independente do lugar     |
-            |ado a jogar bola em qualquer lugar        |                                                                |
-| José      |utiliza o aplicativo para conseguir carona|para não gastar dinheiro desnecessário podendo ter pessoas que  |
-            |para chegar na quadra                     | vão para o mesmo destino morando perto                         |
 
 ## Requisitos Funcionais
 |ID    | Descrição do Requisito  |
@@ -91,9 +85,14 @@ Local reservado para o armazenameto do código fonte do projeto. Esta pasta carr
 Definida pela utilização do Trello com a descrição e divisão das tarefas feitas no site
 
 ## Ferramentas
-| Ambiente |Plataforma || Link de acesso |
-|----------|-----------||----------------|
+ão para o mesmo destino morando perto
+|Ambiente | Plataforma |Link de acesso  |
+|--------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte | Github | https://github.com/rommelcarneiro/tiaw-template |
+| Documentos do projeto | Google Drive | https://github.com/rommelcarneiro/tiaw-template |
+| Projeto de Interface e  Wireframes | ninjamock | https://ninjamock.com/s/JD5T1Kx |
+| Repositório de código fonte | Github | https://github.com/rommelcarneiro/tiaw-template |
+| Gerenciamento do Projeto | Trello | https://trello.com/b/3DNdAnrb/ti-front-end-pelada |
 | Documentos do projeto | Google Drive | https://github.com/rommelcarneiro/tiaw-template |
 | Projeto de Interface e  Wireframes | ninjamock | https://ninjamock.com/s/JD5T1Kx |
 | Gerenciamento do Projeto | Trello | https://trello.com/b/3DNdAnrb/ti-front-end-pelada |
