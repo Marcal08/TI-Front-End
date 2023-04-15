@@ -106,7 +106,8 @@ Definida pela utilização do Trello com a descrição e divisão das tarefas fe
 1. [Contexto](1-Contexto.md)
 2. [Especificações do Projeto](2-Especificação.md)
 3. [Projeto da Interface](3-Interface.md)
-4. [Gerenciamento de Projeto](4-Gerenciamento-Projeto.md)
-5. [Apresentação](6-Apresentação.md)
+4. [Gestão de Configuração](4-Gestão-Configuração.md)
+5. [Gerenciamento de Projeto](4-Gerenciamento-Projeto.md)
+6. [Apresentação](6-Apresentação.md)
 
 
