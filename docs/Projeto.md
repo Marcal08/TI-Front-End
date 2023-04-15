@@ -37,6 +37,7 @@ Adicionalmente, há uma falta de canais de notícias isentos e objetivos que per
 ## Histórias de Usuários
 
 |EU COMO... |            QUERO/PRECISO ...             |                              PARA ...                          |
+|-----------|------------------------------------------||---------------------------------------------------------------|
 | Leticia   |visualizar as quadras perto de minha casa |para encontrar pessoas com sminha faixa etária perto da sua casa|
 | Gustavo   |visualizar as quadras quando está interess|gastar menos tempo indo para a quadra independente do lugar     |
             |ado a jogar bola em qualquer lugar        |                                                                |
@@ -45,6 +46,7 @@ Adicionalmente, há uma falta de canais de notícias isentos e objetivos que per
 
 ## Requisitos Funcionais
 |ID    | Descrição do Requisito  |
+|-----------|--------------------|
 |RF-001| O site deve apresentar na página inicial as principais quadras do momento  |
 |RF-002| O site deve apresentar, para cada quadra, uma imagem correspondente  |
 |RF-003| O site deve permitir ao usuário visualizar as avaliações e preços das quadras |
@@ -85,6 +87,8 @@ Local reservado para o armazenameto do código fonte do projeto. Esta pasta carr
 Definida pela utilização do Trello com a descrição e divisão das tarefas feitas no site
 
 ## Ferramentas
+| Ambiente|Plataforma||Link de acesso|
+|-----------|------------------------------------------||---------------------------------------------------------------|
 | Repositório de código fonte | Github | https://github.com/rommelcarneiro/tiaw-template |
 | Documentos do projeto | Google Drive | https://github.com/rommelcarneiro/tiaw-template |
 | Projeto de Interface e  Wireframes | ninjamock | https://ninjamock.com/s/JD5T1Kx |
