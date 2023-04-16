@@ -3,11 +3,9 @@
 <span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
 
 
-> Conjunto de slides em um arquivo PowerPoint ou PDF
-> com a apresentação do projeto contemplando todos os
-> itens trabalhados nos demais artefatos.
+
 ## Título do Projeto
 > Futzin
 
-
+https://docs.google.com/presentation/d/1KqL1sEIe6hpg6XZ_kZh0xMIf-gGtndIUB0ocilFLRLY/edit?usp=sharing
 
