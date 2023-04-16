@@ -1,8 +1,4 @@
-# Apresentação
-
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
-
-
+## Apresentação
 
 ## Título do Projeto
 > Futzin
