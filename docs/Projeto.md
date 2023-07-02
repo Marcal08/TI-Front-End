@@ -1,5 +1,5 @@
 # Informações do Projeto
-`Pelada de futebol`  
+`FastFut`  
 Trabalho Interdisciplinar - Aplicacões Web
 
 `Front-end`
