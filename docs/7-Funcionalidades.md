@@ -1,2 +1,2 @@
 
-![Novo Usuario](images/WIREFRAME.PNG)
+![Novo Usuario](images/foto_login.png)
