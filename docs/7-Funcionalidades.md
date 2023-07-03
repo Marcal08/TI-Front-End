@@ -7,6 +7,6 @@ Tela das quadras disponíveis
 Tela das quadras favoritas adicionadas
 ![Novo Usuario](images/fotoquadrasfavoritas.png)
 Tela de criar os grupos
-![Novo Usuario](images/fotocriargrupos.png)
+![Novo Usuario](images/fotocriargrupo.png)
 Tela dos grupos já criados
 ![Novo Usuario](images/fotogrupos.png)
