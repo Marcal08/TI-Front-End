@@ -21,5 +21,6 @@ Os membros do grupo são:
 4. [Gestão de Configuração](4-Gestão-Configuração.md)
 5. [Gerenciamento de Projeto](5-Gerenciamento-Projeto.md)
 6. [Apresentação](6-Apresentação.md)
+7. [Funcionalidades](7-Funcionalidades.md)
 
 
