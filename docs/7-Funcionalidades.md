@@ -1,2 +1,2 @@
 
-![Novo Usuario](images/foto_login.png)
+![Novo Usuario](docs/images/foto criar conta.png)
